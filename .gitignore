@@ -1,0 +1,8 @@
+*.csv
+*.xlsx
+*.XLS
+*.pdf
+*.txt
+*.zip
+data/input/*
+*.pyc
